@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\bin\Debug\Entidades.exe
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\obj\Debug\Entidades.exe
+C:\Users\danie\source\repos\Bulacio.Daniel\Entidades\obj\Debug\Entidades.pdb
